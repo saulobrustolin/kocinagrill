@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "sources": ["slick-theme.min.css"],
+    "names": [],
+    "mappings": "AAAA,MAAM;EACV,cAAc;IACd,aAAa;CACf,aAAa;EACb,SAAS;CACX,cAAc;AAClB",
+    "file": "slick-theme.min.css",
+    "sourceRoot": ""
+  }
+  
